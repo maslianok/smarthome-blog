@@ -8,7 +8,7 @@ module.exports = {
     description: `Все про умный дом`,
     siteUrl: `https://blog.maslianok.com/`,
     social: {
-      youtube: `https://www.youtube.com/channel/UCErgYK803dMTCGIQQAVHCPg`,
+      youtube: `https://www.youtube.com/channel/UCzIurfgFXbNqAyRkZ0tC9pw`,
       instagram: `https://www.instagram.com/shomeinfo/`,
       telegram: `https://t.me/smarthomeinfo`,
     },
